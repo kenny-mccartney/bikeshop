@@ -1,2 +1,3 @@
-backend/node_modules
-bikeshop-frontend/node_modules
+# Ignore node_modules folders - they're auto-generated, and are HUGE so they
+# cause warnings from VS Code source control
+node_modules/
